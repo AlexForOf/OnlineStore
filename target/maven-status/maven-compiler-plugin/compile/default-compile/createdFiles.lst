@@ -1,0 +1,7 @@
+com\store\gamestore\Game.class
+com\store\gamestore\GameNotFoundException.class
+com\store\gamestore\GameRepository.class
+com\store\gamestore\GameController.class
+com\store\gamestore\GameService.class
+com\store\gamestore\ControllerTest.class
+com\store\gamestore\GamestoreApplication.class
